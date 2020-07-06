@@ -1,6 +1,6 @@
 const { Asset } = require('parcel-bundler')
 const gutt = require('gutt')
-const stringifier = require('gutt-browser-render-stringifier')
+const stringifier = require('gutt-browser-stringifier')
 
 class GuttAsset extends Asset {
 	constructor(name, options) {
