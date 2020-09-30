@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "gutt": "^0.3.0",
-    "gutt-browser-stringifier": "^0.4.0",
+    "gutt-browser-stringifier": "^0.5.0",
     "parcel-bundler": "^1.12.4"
   }
 }
